@@ -3,6 +3,9 @@
 
   <h3>Spring 배우기 <br></h3>
   <h5>Using IntelliJ</h5>
+</div>
 
+<div>
+  <h1>Day 1 Study</h1>
   
 </div>
